@@ -1,6 +1,10 @@
 # KHAI THÁC DỊCH VỤ HCMGIS MAPS
 
 Khai thác dịch vụ HCMGIS Maps thông qua WMS 
+**Demo**
+ - https://hcmgis.github.io/service.github.io
+
+**Hướng dẫn**
 -------------
 Đính kèm file Leaflet CSS vào phần head html
 ```html
@@ -137,5 +141,3 @@ let tileLayer = L.tileLayer(
 
 ```
 
-**Liên kết**
- - https://hcmgis.github.io/service.github.io
