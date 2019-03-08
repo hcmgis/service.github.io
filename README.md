@@ -4,8 +4,9 @@ Khai thác dịch vụ HCMGIS Maps thông qua WMS
 -------------
 **Demo**
  - https://hcmgis.github.io/service.github.io
--------------
+
 **Hướng dẫn**
+-------------
 Đính kèm file Leaflet CSS vào phần head html
 ```html
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
